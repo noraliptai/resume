@@ -142,9 +142,18 @@ nav ul li {
   text-align: center;
 }
 
+.more-about h4 {
+  padding: 10px;
+}
+
 .more-about p {
   line-height: var(--line-height);
   padding: 0.4rem;
+}
+
+.more-about li {
+  line-height: 1.7rem;
+  padding: 0 0.4rem;
 }
 /* More about ends */
 
@@ -203,6 +212,7 @@ nav ul li {
   text-align: center;
   width: 21.875rem;
   padding: 1rem;
+  min-height: 18rem;
 }
 
 .project-container p {
